@@ -82,6 +82,9 @@ h1 {
         margin-left: 0;
         padding: 0px 14px;
     }
+    .center > .content > .logo > img{
+        max-width: 280px;
+    }
 }
 .center > .content > .info > .socials{
     display: flex;
